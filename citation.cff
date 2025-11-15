@@ -6,9 +6,13 @@ authors:
   family-names: Waller
   given-names: Dany
   orcid: 0000-0002-6310-3766
-cff-version: 1.0.0
+- affiliation: University of Kentucky
+  family-names: Ravat
+  given-names: Dhananjay
+  orcid: 0000-0003-1962-4422
+cff-version: 1.2.0
 date-released: '2025-11-15'
-doi: tbd
+url: "https://github.com/lunarswirls/GravMagPy"
 keywords:
     - Potential Fields
     - Equivalent Source Model
